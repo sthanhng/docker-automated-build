@@ -1,1 +1,1 @@
-FROM hello-word
+FROM hello-world
